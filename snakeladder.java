@@ -180,9 +180,10 @@ class snakeladder
 		FDemo f=new FDemo();
 		f.setVisible(true);
 		f.setBounds(220,-25,990,735);
-		f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);// its is use for corner exist which is including in swing layout
+		f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);
 	}
 	
 	
 
 }
+
